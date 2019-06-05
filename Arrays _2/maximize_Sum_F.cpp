@@ -62,3 +62,11 @@ long maxPathSum(int ar1[], int ar2[], int m, int n)
 return maxSum;
 
 }
+
+//output is 25 io 81 for test case 
+/*
+6
+1 5 10 15 20 25
+5
+2 4 5 9 15
+*/ 
