@@ -36,3 +36,5 @@ void FindTriplet(int arr[], int size, int x) {
        } 
     }
 }
+
+//100 :D
