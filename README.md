@@ -1,6 +1,6 @@
 # Coding Ninjas Inception C++ Summer Course
 
-The codes here were written during the 2019 May Summer Batch for C++ Inception course at Coding Ninjas. Some modules couldn't be uploaded for obvious reasons.
+The driver codes here were written during the 2019 May Summer Batch for C++ Inception course at Coding Ninjas. Some modules couldn't be uploaded for obvious reasons.
 
 
 ***
